@@ -31,5 +31,7 @@ Therefore my computer benefits from UNIX.
 <LI> Submit <TT>OSBenefits.thm.txt</TT> for output processing to produce an IDV tree.
      Save the image in <TT>OSBenefits.IDV.png</TT> (or whatever image format you use).
 </OL>
+Submit <TT>OSBenefits.txt</TT>, <TT>OSBenefits.formatted.txt</TT>, <TT>OSBenefits.types.txt</TT>,
+<TT>OSBenefits.sat.txt</TT>,<TT>OSBenefits.thm.txt</TT>, and <TT>OSBenefits.IDV.png</TT>.
 <P>
 <HR><!-- -------------------------------------------------------------------------------------- -->
